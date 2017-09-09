@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main (){
-	printf("My name is Sam, is a good guy");
+	printf("My name is Ken, is a good guy");
 	return 0;
 }
