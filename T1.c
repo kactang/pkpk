@@ -1,7 +1,7 @@
 #include <stdio.h>
 void printString(char* s);
 int main (){
-	printf("My name is Sam, is a bad guy");
+	printf("My name is Ken, is a bad guy");
 	return 0;
 }
 
